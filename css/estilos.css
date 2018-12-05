@@ -1,0 +1,28 @@
+footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+}
+nav{
+	background-color: black;
+}
+
+.carrusel-item{
+	width: 100%; 
+}
+
+.carousel-inner{
+	height: 750px;
+}
+
+.logo{
+	width: 100%;
+	height: 100%;
+}
+
+.jumbotron{
+	background-color:#f19933;
+}
